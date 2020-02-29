@@ -22,3 +22,8 @@ data and schema
 ## Transformer plugin
 
 npm i gatsby-transformer-remark
+
+## Styled components
+
+npm i gatsby-plugin-styled-co
+mponents styled-components babel-plugin-styled-components
