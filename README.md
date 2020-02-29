@@ -18,3 +18,7 @@ data and schema
 ## Markdown
 
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+
+## Transformer plugin
+
+npm i gatsby-transformer-remark
